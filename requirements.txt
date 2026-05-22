@@ -1,0 +1,6 @@
+RealtimeSTT
+faster-whisper
+pyttsx3
+keyboard
+pyaudio
+sounddevice
