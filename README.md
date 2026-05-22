@@ -17,6 +17,11 @@ Technologies Used
 - pyttsx3
 - PyAudio
 - keyboard
+- python-dotenv
+- Groq API
+- Whisper Large V3 Turbo
+- webrtcvad
+- scipy
 
 Features
 - Press F9 to start listening
