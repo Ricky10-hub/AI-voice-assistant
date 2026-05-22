@@ -30,3 +30,6 @@ Features
 
 Run Command:
 python main.py
+
+Install requirements.txt:
+pip install -r requirements.txt
